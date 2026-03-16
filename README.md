@@ -1,39 +1,28 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--   ANIMATED CIRCUIT / CHIP HEADER                      -->
-<!--   Uses SVG animation layered via capsule-render        -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════ -->
+<!--   HERO: floating computer GIF + name overlay    -->
+<!-- ════════════════════════════════════════════════ -->
 
-<!-- Animated circuit GIF behind the name -->
-<img width="100%" height="280" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="display:none"/>
+<!-- Animated waving banner — alpine palette -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,30:0d1f35,65:3491E4,100:67BFE2&height=280&section=header&text=SUMIT%20SINGH&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX-Driven%20%E2%80%A2%20React%20%C2%BB%20Node.js%20%C2%BB%20WebRTC%20%C2%BB%20AWS&descAlignY=68&descSize=15&descColor=C3E6F8&stroke=3491E4&strokeWidth=2"/>
 
-<!-- Main animated banner with chip/tech feel -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,30:0d1f35,60:3491E4,100:67BFE2&height=300&section=header&text=SUMIT%20SINGH&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX-Driven%20%E2%80%A2%20React%20%C2%BB%20Node.js%20%C2%BB%20WebRTC%20%C2%BB%20AWS&descAlignY=68&descSize=15&descColor=C3E6F8&stroke=3491E4&strokeWidth=2" width="100%"/>
+<!-- Floating computer / holographic display GIF beside the name -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
 
-<!-- Animated chip/hardware GIF overlay row -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-</div>
-
-<!-- Typing line -->
-<div align="center">
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=20&pause=1000&color=3491E4&center=true&vCenter=true&width=700&lines=Designing+experiences%2C+engineering+solutions+%E2%9C%A8;React+%7C+Node.js+%7C+WebRTC+%7C+Socket.io+%7C+AWS;Built+a+real-time+WebRTC+whiteboard+in+2nd+year+%F0%9F%9A%80;UI%2FUX-first+developer+%E2%80%94+where+design+meets+code;Open+to+exciting+opportunities+%F0%9F%91%8B" alt="Typing SVG"/>
 </a>
-</div>
 
 <br/>
 
-<!-- Animated tech bar -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-</div>
+<!-- Engine / gears animated bar — techy mechanical feel -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <br/>
 
-<div align="center">
-
+<!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=SumitSingh3101&label=Profile+Views&color=3491E4&style=for-the-badge&labelColor=0d1f35"/>
 &nbsp;
 <a href="https://github.com/SumitSingh3101?tab=followers">
@@ -54,7 +43,8 @@
 
 ## 🖥️ About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+<!-- Floating laptop/coder GIF aligned right -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="360"/>
 
 ```js
 const sumit = {
@@ -62,14 +52,14 @@ const sumit = {
   location : "Jalandhar, Punjab, India 🇮🇳",
   uni      : "LPU · CSE · CGPA 8.19",
 
-  stack    : ["React","Node.js","WebRTC","Socket.io",
-              "MongoDB","AWS","Docker","Express"],
+  stack    : ["React", "Node.js", "WebRTC",
+              "Socket.io", "MongoDB", "AWS"],
 
   wins: [
-    "WebRTC whiteboard — 2nd year 🔥",
-    "40% faster queries via DB indexing",
-    "Sub-150ms API responses",
-    "Mentored 200+ children 🌍",
+    "⚡ WebRTC whiteboard — 2nd year 🔥",
+    "📉 40% faster queries via DB indexing",
+    "⏱  Sub-150ms API responses",
+    "🌍 Mentored 200+ children",
   ],
 
   open : true, // ← looking for opportunities
@@ -80,36 +70,34 @@ const sumit = {
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Engine Room — Tech Stack
 
 <div align="center">
 
-<!-- Animated tech icons row -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" title="React"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" title="Node.js"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" title="MongoDB"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" title="JavaScript"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb9-7866-4ed5-9d63-a9533f1cbdaa.gif" width="50" title="Python"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" title="Docker"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" title="AWS"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-c9e0c884fb64.gif" width="50" title="MySQL"/>
+<!-- Spinning gear / engine GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="48" title="React"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" title="Node.js"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="48" title="MongoDB"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" title="JavaScript"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb9-7866-4ed5-9d63-a9533f1cbdaa.gif" width="48" title="Python"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" title="Docker"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="48" title="AWS"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-c9e0c884fb64.gif" width="48" title="MySQL"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,spring,mongodb,mysql,git,docker,aws,postman,java,python,cpp&theme=light&perline=9"/>
-</p>
 
-<p align="center">
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Socket.io-3491E4?style=flat-square&logo=socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebRTC-67BFE2?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-8F7D6C?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Konva.js-669348?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-3491E4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Aggregation%20Pipelines-67BFE2?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
+
+</div>
 
 ---
 
@@ -187,11 +175,12 @@ const sumit = {
 
 <div align="center">
 
-| 🥉 2nd Runner-Up | GFG × LPU Hackathon |
-|:--|:--|
-| 🏅 2nd Runner-Up | Python Data Science Coding Challenge |
-| 🏆 3rd Place — West Zone | All-India School Contest (ICPE, Govt. of India) |
-| 🌍 200+ Children Mentored | Lion's Club International · Rural Gujarat |
+| Medal | Achievement | Event |
+|:--:|:--|:--|
+| 🥉 | 2nd Runner-Up | GFG × LPU Hackathon |
+| 🏅 | 2nd Runner-Up | Python Data Science Coding Challenge |
+| 🏆 | 3rd Place — West Zone | All-India School Contest (ICPE, Govt. of India) |
+| 🌍 | 200+ Children Mentored | Lion's Club International · Rural Gujarat |
 
 </div>
 
@@ -201,7 +190,7 @@ const sumit = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/>
 
 <br/><br/>
 
@@ -225,7 +214,7 @@ const sumit = {
 
 ---
 
-<!-- Animated footer bar -->
+<!-- Animated footer engine bar -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
