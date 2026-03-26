@@ -8,7 +8,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,30:0d1f35,65:3491E4,100:67BFE2&height=280&section=header&text=SUMIT%20SINGH&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX-Driven%20%E2%80%A2%20React%20%C2%BB%20Node.js%20%C2%BB%20WebRTC%20%C2%BB%20AWS&descAlignY=68&descSize=15&descColor=C3E6F8&stroke=3491E4&strokeWidth=2"/>
 
 <!-- Floating computer / holographic display GIF beside the name -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
